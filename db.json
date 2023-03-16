@@ -76,20 +76,20 @@
   },
   "addresses": [
     {
-      "firstName": "abessolo",
-      "lastName": "zackarie",
-      "email": "zackabess@gmail.com",
-      "address": "Ouest foire V3",
+      "firstName": "pierre",
+      "lastName": "nedelec",
+      "email": "pnedelec@gmail.com",
+      "address": "champs blanc",
       "country": "hello",
       "state": "california",
       "zip": "1233",
       "id": 1
     },
     {
-      "firstName": "abessolo",
-      "lastName": "zackarie",
-      "email": "zackabess@gmail.com",
-      "address": "Ouest foire",
+      "firstName": "abespierresolo",
+      "lastName": "nedelec",
+      "email": "pnedelec@gmail.com",
+      "address": "champs blanc",
       "country": "hello",
       "state": "california",
       "zip": "1233",
